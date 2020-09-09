@@ -1,0 +1,3 @@
+export const PUBLISH_MESSAGE = 'PUBLISH_MESSAGE';
+export const REMOVE_MESSAGE = 'REMOVE_MESSAGE';
+

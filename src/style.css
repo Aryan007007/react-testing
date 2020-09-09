@@ -1,0 +1,12 @@
+.centeredForm{
+    width: fit-content;
+    height: fit-content;
+    border: 1px Solid;
+    margin: 5vh Auto 0;
+    padding: 15px;
+}
+
+.btnCentered{
+
+    margin: 10px calc(50% - 40px) 0 ;
+}
