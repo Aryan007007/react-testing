@@ -8,5 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Created a layout of the app using form and date picker for the input area.
 2. Installed the redux and react-redux libraries.
 3. Tried to implement the redux concept as per my capabilities, deploying the store and using states.
-
+## Link to previously attempted build :
+https://github.com/Aryan007007/Aryan_1706402_BoardInfinity
 
